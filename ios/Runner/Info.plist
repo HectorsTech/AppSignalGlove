@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+    <string>Esta app necesita Bluetooth para conectarse al Guante Traductor.</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>Esta app necesita Bluetooth para conectarse al Guante Traductor.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Necesario para escanear dispositivos Bluetooth cercanos.</string>
 </dict>
 </plist>
